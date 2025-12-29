@@ -1,10 +1,9 @@
-## Hello Nihar here 👋
+## Hey Nihar here
 
-## Introduction<br>
 <ul>
 <li>2025 CSE graduate, learning about the new tech that pops up every day while trying to steer away from the AI code slop</li>
-<li>Data Analyst @Fischer Jordan, always ready to explore new tech related to Data Science, Machine Learning and Python development </li>
-<li>Do reach out if you have something interesting for a collab</li>
+<li>Data Analyst @ Fischer Jordan, exploring new technologies in Data Science, Machine Learning, and Python—one project at a time.</li>
+<li>Reach out if you’re working on something interesting</li>
 </ul>
 
 ## Tech Stack
