@@ -7,22 +7,26 @@
 <li>Do reach out if you have something interesting for a collab</li><br>
 </ul>
 
-## Tech Stack<br>
-<img src="images/Python logo.svg" height="28"/>
-<img src="images/Tensorflow logo.svg" height="28"/>
-<img src="images/Pytorch logo.svg" height="28"/>
-<img src="images/flask logo.svg" height="28"/>
-<img src="images/pandas logo.svg" height="28"/>
-<img src="images/numpy logo.svg" height="28"/>
-<img src="images/Mysql logo.svg" height="28"/>
-<img src="images/PostgreSQL logo.svg" height="28"/>
-<img src="images/AWS logo.svg" height="28"/>
-<img src="images/Linux logo.svg" height="28"/>
-<img src="images/java logo.svg" height="28"/>
-<img src="images/C logo.svg" height="28"/>
-<img src="images/cpp logo.svg" height="28"/>
-<img src="images/FastAPI logo.svg" height="28"/>
-<img src="images/markdown logo.svg" height="28"/>
+## Tech Stack
+
+<p align="center">
+  <img src="images/Python logo.svg" height="28"/>
+  <img src="images/Tensorflow logo.svg" height="28"/>
+  <img src="images/Pytorch logo.svg" height="28"/>
+  <img src="images/flask logo.svg" height="28"/>
+  <img src="images/pandas logo.svg" height="28"/>
+  <img src="images/numpy logo.svg" height="28"/>
+  <img src="images/Mysql logo.svg" height="28"/>
+  <img src="images/PostgreSQL logo.svg" height="28"/>
+  <img src="images/AWS logo.svg" height="28"/>
+  <img src="images/Linux logo.svg" height="28"/>
+  <img src="images/java logo.svg" height="28"/>
+  <img src="images/C logo.svg" height="28"/>
+  <img src="images/cpp logo.svg" height="28"/>
+  <img src="images/FastAPI Logo.svg" height="28"/>
+  <img src="images/markdown logo.svg" height="28"/>
+</p>
+
 
 
 ##Socials
