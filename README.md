@@ -1,12 +1,28 @@
 ## Hello Nihar here 👋
 
 ## Introduction<br>
-2025 CSE graduate, learning about the new tech that pops up every day while trying to steer away from the AI code slop<br>
-Data Analyst @Fischer Jordan, always ready to explore new tech related to Data Science, Machine Learning and Python development <br>
-Do reach out if you have something interesting for a collab<br>
+<ul>
+<li>2025 CSE graduate, learning about the new tech that pops up every day while trying to steer away from the AI code slop</li><br>
+<li>Data Analyst @Fischer Jordan, always ready to explore new tech related to Data Science, Machine Learning and Python development </li><br>
+<li>Do reach out if you have something interesting for a collab</li><br>
+</ul>
 
+## Tech Stack<br>
+<img src="images/Python logo.svg" height="28"/>
+<img src="images/Tensorflow logo.svg" height="28"/>
+<img src="images/Pytorch logo.svg" height="28"/>
+<img src="images/flask logo.svg" height="28"/>
+<img src="images/pandas logo.svg" height="28"/>
+<img src="images/numpy logo.svg" height="28"/>
+<img src="images/Mysql logo.svg" height="28"/>
+<img src="images/PostgreSQL logo.svg" height="28"/>
+<img src="images/AWS logo.svg" height="28"/>
+<img src="images/Linux logo.svg" height="28"/>
+<img src="images/java logo.svg" height="28"/>
+<img src="images/C logo.svg" height="28"/>
+<img src="images/cpp logo.svg" height="28"/>
+<img src="images/FastAPI logo.svg" height="28"/>
+<img src="images/markdown logo.svg" height="28"/>
 
-##Tech Stack
-<img src="images/Python logo.svg" height="40"/>
 
 ##Socials
