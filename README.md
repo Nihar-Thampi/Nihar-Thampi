@@ -29,4 +29,20 @@
 
 
 
-##Socials
+## Socials
+<p align = "center">
+  <a href="https://www.linkedin.com/in/nihar-thampi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <p align="center">
+  <a href="https://open.spotify.com/user/qg7mglb9llx3ta8wq63x2ptjr">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/>
+  </a>
+</p>
+
+  
+
+</p>
