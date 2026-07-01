@@ -19,11 +19,12 @@
   <img src="images/PostgreSQL logo.svg" height="28"/>
   <img src="images/AWS logo.svg" height="28"/>
   <img src="images/Linux logo.svg" height="28"/>
-  <img src="images/java logo.svg" height="28"/>
-  <img src="images/C logo.svg" height="28"/>
-  <img src="images/cpp logo.svg" height="28"/>
+  <!-- <img src="images/java logo.svg" height="28"/> -->
+  <!-- <img src="images/C logo.svg" height="28"/> -->
+  <!-- <img src="images/cpp logo.svg" height="28"/> -->
   <img src="images/FastAPI Logo.svg" height="28"/>
-  <img src="images/markdown logo.svg" height="28"/>
+  
+  <!-- <img src="images/markdown logo.svg" height="28"/> -->
 </p>
 
 
