@@ -2,7 +2,7 @@
 
 <ul>
 <li>2025 CSE graduate, learning about the new tech that pops up every day while trying to steer away from the AI code slop</li>
-<li>Data Analyst @ Fischer Jordan, exploring new technologies in Data Science, Machine Learning, and Python—one project at a time.</li>
+<li>Aspiring Software Developer exploring new technologies in LLMs, Machine Learning, and Python—one project at a time.</li>
 <li>Reach out if you’re working on something interesting</li>
 </ul>
 
